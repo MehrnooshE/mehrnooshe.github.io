@@ -1,32 +1,26 @@
-## Blog Post Title From First Header
+## Useful Resources for Biology
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+- **MIT OpenCourseWare**
+  - [MIT OpenCourseWare](https://ocw.mit.edu)
+  - [Introductory Biology (7.016)](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)
 
-If the file does not start with a header, then the post title will be derived from the filename.
+- **BioInteractive**
+  - [YouTube Channel](https://www.youtube.com/@biointeractive/playlists)  
+  - [Website](https://www.biointeractive.org/)
+  - Featured resources:
+    - [Cellular Respiration (Playlist)](https://youtube.com/playlist?list=PLI1XjFOSo4gOymAvlRs_8sSUH1BKKUiDA&si=PQZZtstkffRmudW8)  
+    - [Transcription (Animation)](http://www.hhmi.org/biointeractive/dna-transcription-advanced-detail)  
+    - [Translation (Animation)](http://www.hhmi.org/biointeractive/translation-advanced-detail)  
+    - [RNA Interference](http://www.hhmi.org/biointeractive/rna-interference)  
+    - [Sickle Cell Anemia](http://www.hhmi.org/biointeractive/sickle-cell-anemia)  
+    - [Mutations in Cancer](https://www.biointeractive.org/classroom-resources/mutations-cancer)  
+      - Taken from *[Medicine in the Genomic Era](https://media.hhmi.org/hl/13Lect4.html?_gl=1*j173sc*_ga*MTU4NzA5NTMwLjE3NTc0MzA5MTA.*_ga_H0E1KHGJBH*czE3NTc1Mjc1OTUkbzQkZzEkdDE3NTc1Mjc1OTkkajU2JGwwJGgw)*
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+- **Cell and Molecular Biology**
+  - [Lectures by Thomas Mennella (YouTube Playlist)](https://youtube.com/playlist?list=PL5xvztUyPgDqUJbluYcKW5ufLERslcu4q&si=xzip7zwEFx0MJ9OS)
 
----
+- **iBiology**
+  - [iBiology Playlists](https://www.ibiology.org/playlists/)
 
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+- **Khan Academy**
+  - [College Biology](https://www.khanacademy.org/science/ap-biology/cell-structure-and-function/cell-structures-and-their-functions/v/introduction-to-the-cell)
