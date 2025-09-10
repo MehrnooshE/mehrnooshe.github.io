@@ -25,3 +25,8 @@
 
 - **Khan Academy**
   - [College Biology](https://www.khanacademy.org/science/ap-biology/cell-structure-and-function/cell-structures-and-their-functions/v/introduction-to-the-cell)
+
+- **Nucleus Medical Media**
+  - [YouTube Channel](https://www.youtube.com/@nucleusmedicalmedia/playlists)
+  - Featured Playlist:
+      - [Physiology](https://www.youtube.com/watch?v=mH81Q9Dtodc&list=PLF_-tIFq2lAppIsJR8z5MLiyrGSaa4uNc)
