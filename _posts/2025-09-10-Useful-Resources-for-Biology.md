@@ -30,3 +30,6 @@
   - [YouTube Channel](https://www.youtube.com/@nucleusmedicalmedia/playlists)
   - Featured Playlist:
       - [Physiology](https://www.youtube.com/watch?v=mH81Q9Dtodc&list=PLF_-tIFq2lAppIsJR8z5MLiyrGSaa4uNc)
+
+- **osmosis.org**
+  -[Basic Science Library](https://www.osmosis.org/library/do?key=DO&source_cta=navbar)
