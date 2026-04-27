@@ -11,7 +11,7 @@
   - [Computational Genomics Course - Helpful Links](https://docs.google.com/document/d/1-HwGSmrLBibcIGb28NHU1ajxEimVb23pZaxWcjy9oLo/edit?tab=t.0#heading=h.arjouojwv2ih)
 
 - **Miller Laboratory - University of Washington**
-  - [Computational Genomics - Helpful Links] (https://millerlaboratory.com/cshl)
+  - [Computational Genomics - Helpful Links](https://millerlaboratory.com/cshl)
 - **BioInteractive**
   - [YouTube Channel](https://www.youtube.com/@biointeractive/playlists)  
   - [Website](https://www.biointeractive.org/)
