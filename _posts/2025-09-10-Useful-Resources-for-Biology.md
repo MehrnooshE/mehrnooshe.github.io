@@ -1,8 +1,14 @@
 ## Useful Resources for Biology
 
+- **Harvard**
+  - [Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/intro.html)
+  
 - **MIT OpenCourseWare**
   - [MIT OpenCourseWare](https://ocw.mit.edu)
   - [Introductory Biology (7.016)](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)
+
+- **Cold Spring Harbor Laboratory (CSHL)**
+  - [Computational Genomics Course - Helpful Links](https://docs.google.com/document/d/1-HwGSmrLBibcIGb28NHU1ajxEimVb23pZaxWcjy9oLo/edit?tab=t.0#heading=h.arjouojwv2ih)
 
 - **BioInteractive**
   - [YouTube Channel](https://www.youtube.com/@biointeractive/playlists)  
