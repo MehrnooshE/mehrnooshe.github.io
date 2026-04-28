@@ -1,31 +1,16 @@
 title: "Bits, Bytes & Base Pairs"
 author: "Mehrnoosh Emamifar"
-description: "From circuits to cells: documenting my journey from computer engineering to bioinformatics." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "From circuits to cells: documenting my journey from computer engineering to bioinformatics."
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
-# email: "example@mail.com"
-# twitter_username: "twitteruser"
-# github_username: "githubuser"
 linkedin_username: "linkedin.com/in/mehrnoosh-emamifar"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "minima"
-
-# rss: rss
+# No theme — using custom layouts
+# theme: "minima"
 
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -39,4 +24,5 @@ defaults:
       path: ""
       type: post
     values:
+      layout: post
       tags: Other
